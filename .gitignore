@@ -1,0 +1,18 @@
+# Temporary directories and files
+miraculix/__pycache__/*
+
+# IntelliSense of Pycharm
+.idea/
+
+# Virtual environment
+venv/
+
+# Distribution
+dist/
+*.egg-info
+
+examples/Kontiklausur
+
+
+
+

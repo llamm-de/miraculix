@@ -1,0 +1,1014 @@
+{
+    "Date": "01.01.3000",
+    "Exam_data_file": "./data/example_inputdata.csv",
+    "Examiner": "Prof. Dr.-Ing. Max Mustermann  ",
+    "Name": "Musterwissenschaften",
+    "Participants": [
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Edwin",
+            "Grade": 0,
+            "Lastname": "Fisher",
+            "Matriculation": "301413",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Frances",
+            "Grade": 0,
+            "Lastname": "Patterson",
+            "Matriculation": "309232",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Hailey",
+            "Grade": 0,
+            "Lastname": "James",
+            "Matriculation": "319371",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Eduardo",
+            "Grade": 0,
+            "Lastname": "Holt",
+            "Matriculation": "321323",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Enrique",
+            "Grade": 0,
+            "Lastname": "Turner",
+            "Matriculation": "325400",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Bonnie",
+            "Grade": 0,
+            "Lastname": "Henry",
+            "Matriculation": "335195",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Krin",
+            "Grade": 0,
+            "Lastname": "Boyd",
+            "Matriculation": "336284",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Bryan",
+            "Grade": 0,
+            "Lastname": "Cunningham",
+            "Matriculation": "337398",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Myrtle",
+            "Grade": 0,
+            "Lastname": "Bates",
+            "Matriculation": "342001",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Todd",
+            "Grade": 0,
+            "Lastname": "Obrien",
+            "Matriculation": "347461",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Patsy",
+            "Grade": 0,
+            "Lastname": "Duncan",
+            "Matriculation": "362152",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Brandy",
+            "Grade": 0,
+            "Lastname": "Ford",
+            "Matriculation": "364033",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Riley",
+            "Grade": 0,
+            "Lastname": "Phillips",
+            "Matriculation": "374125",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Patrick",
+            "Grade": 0,
+            "Lastname": "Black",
+            "Matriculation": "375210",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Bill",
+            "Grade": 0,
+            "Lastname": "Curtis",
+            "Matriculation": "380794",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Jenny",
+            "Grade": 0,
+            "Lastname": "Perry",
+            "Matriculation": "380913",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Ellen",
+            "Grade": 0,
+            "Lastname": "Murphy",
+            "Matriculation": "381497",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Tonya",
+            "Grade": 0,
+            "Lastname": "Mitchelle",
+            "Matriculation": "384481",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Vanessa",
+            "Grade": 0,
+            "Lastname": "Edwards",
+            "Matriculation": "386389",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Jacqueline",
+            "Grade": 0,
+            "Lastname": "Steeves ",
+            "Matriculation": "387835",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Phyllis",
+            "Grade": 0,
+            "Lastname": "Ortiz",
+            "Matriculation": "390173",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Roberta",
+            "Grade": 0,
+            "Lastname": "Cole",
+            "Matriculation": "390843",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Francis",
+            "Grade": 0,
+            "Lastname": "Mitchell",
+            "Matriculation": "392087",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Pearl",
+            "Grade": 0,
+            "Lastname": "Lawrence",
+            "Matriculation": "397262",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Joyce",
+            "Grade": 0,
+            "Lastname": "Holland",
+            "Matriculation": "411287",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Landon",
+            "Grade": 0,
+            "Lastname": "Coleman",
+            "Matriculation": "413213",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Rita",
+            "Grade": 0,
+            "Lastname": "Stewart",
+            "Matriculation": "417129",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Bill",
+            "Grade": 0,
+            "Lastname": "Garrett",
+            "Matriculation": "418112",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Pearl",
+            "Grade": 0,
+            "Lastname": "Cunningham",
+            "Matriculation": "421933",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Francis",
+            "Grade": 0,
+            "Lastname": "King",
+            "Matriculation": "430188",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "David",
+            "Grade": 0,
+            "Lastname": "Thomas",
+            "Matriculation": "432295",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Isobel",
+            "Grade": 0,
+            "Lastname": "Graham",
+            "Matriculation": "434926",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Pearl",
+            "Grade": 0,
+            "Lastname": "Hall",
+            "Matriculation": "435873",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Marcia",
+            "Grade": 0,
+            "Lastname": "Tucker",
+            "Matriculation": "436628",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Earl",
+            "Grade": 0,
+            "Lastname": "Jenkins",
+            "Matriculation": "437268",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Ronnie",
+            "Grade": 0,
+            "Lastname": "Henderson",
+            "Matriculation": "445284",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Rita",
+            "Grade": 0,
+            "Lastname": "Obrien",
+            "Matriculation": "449649",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Timmothy",
+            "Grade": 0,
+            "Lastname": "Ray",
+            "Matriculation": "456211",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Ashley",
+            "Grade": 0,
+            "Lastname": "Spencer",
+            "Matriculation": "460850",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Veronica",
+            "Grade": 0,
+            "Lastname": "Oliver",
+            "Matriculation": "468411",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Tiffany",
+            "Grade": 0,
+            "Lastname": "Medina",
+            "Matriculation": "473069",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Bernice",
+            "Grade": 0,
+            "Lastname": "Fernandez",
+            "Matriculation": "474927",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Corey",
+            "Grade": 0,
+            "Lastname": "Richards",
+            "Matriculation": "478678",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Eugene",
+            "Grade": 0,
+            "Lastname": "Perkins",
+            "Matriculation": "480201",
+            "NumberOfTrials": "2",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Wayne",
+            "Grade": 0,
+            "Lastname": "Banks",
+            "Matriculation": "481895",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Sophie",
+            "Grade": 0,
+            "Lastname": "Smith",
+            "Matriculation": "485250",
+            "NumberOfTrials": "1",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Noelle",
+            "Grade": 0,
+            "Lastname": "Berry",
+            "Matriculation": "493968",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Anne",
+            "Grade": 0,
+            "Lastname": "Brewer",
+            "Matriculation": "495833",
+            "NumberOfTrials": "3",
+            "Points": []
+        },
+        {
+            "Annotation": "",
+            "Bonus": 0,
+            "Firstname": "Tara",
+            "Grade": 0,
+            "Lastname": "Butler",
+            "Matriculation": "495857",
+            "NumberOfTrials": "3",
+            "Points": []
+        }
+    ],
+    "Points_per_task": [
+        10,
+        12,
+        20,
+        5
+    ],
+    "Rooms": [
+        {
+            "AssignedParticipants": [
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Edwin",
+                    "Grade": 0,
+                    "Lastname": "Fisher",
+                    "Matriculation": "301413",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Frances",
+                    "Grade": 0,
+                    "Lastname": "Patterson",
+                    "Matriculation": "309232",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Hailey",
+                    "Grade": 0,
+                    "Lastname": "James",
+                    "Matriculation": "319371",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Eduardo",
+                    "Grade": 0,
+                    "Lastname": "Holt",
+                    "Matriculation": "321323",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Enrique",
+                    "Grade": 0,
+                    "Lastname": "Turner",
+                    "Matriculation": "325400",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Bonnie",
+                    "Grade": 0,
+                    "Lastname": "Henry",
+                    "Matriculation": "335195",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Krin",
+                    "Grade": 0,
+                    "Lastname": "Boyd",
+                    "Matriculation": "336284",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Bryan",
+                    "Grade": 0,
+                    "Lastname": "Cunningham",
+                    "Matriculation": "337398",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Myrtle",
+                    "Grade": 0,
+                    "Lastname": "Bates",
+                    "Matriculation": "342001",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Todd",
+                    "Grade": 0,
+                    "Lastname": "Obrien",
+                    "Matriculation": "347461",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Patsy",
+                    "Grade": 0,
+                    "Lastname": "Duncan",
+                    "Matriculation": "362152",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Brandy",
+                    "Grade": 0,
+                    "Lastname": "Ford",
+                    "Matriculation": "364033",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Riley",
+                    "Grade": 0,
+                    "Lastname": "Phillips",
+                    "Matriculation": "374125",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Patrick",
+                    "Grade": 0,
+                    "Lastname": "Black",
+                    "Matriculation": "375210",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Bill",
+                    "Grade": 0,
+                    "Lastname": "Curtis",
+                    "Matriculation": "380794",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Jenny",
+                    "Grade": 0,
+                    "Lastname": "Perry",
+                    "Matriculation": "380913",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Ellen",
+                    "Grade": 0,
+                    "Lastname": "Murphy",
+                    "Matriculation": "381497",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Tonya",
+                    "Grade": 0,
+                    "Lastname": "Mitchelle",
+                    "Matriculation": "384481",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Vanessa",
+                    "Grade": 0,
+                    "Lastname": "Edwards",
+                    "Matriculation": "386389",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Jacqueline",
+                    "Grade": 0,
+                    "Lastname": "Steeves ",
+                    "Matriculation": "387835",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Phyllis",
+                    "Grade": 0,
+                    "Lastname": "Ortiz",
+                    "Matriculation": "390173",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Roberta",
+                    "Grade": 0,
+                    "Lastname": "Cole",
+                    "Matriculation": "390843",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Francis",
+                    "Grade": 0,
+                    "Lastname": "Mitchell",
+                    "Matriculation": "392087",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Pearl",
+                    "Grade": 0,
+                    "Lastname": "Lawrence",
+                    "Matriculation": "397262",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Joyce",
+                    "Grade": 0,
+                    "Lastname": "Holland",
+                    "Matriculation": "411287",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Landon",
+                    "Grade": 0,
+                    "Lastname": "Coleman",
+                    "Matriculation": "413213",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Rita",
+                    "Grade": 0,
+                    "Lastname": "Stewart",
+                    "Matriculation": "417129",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Bill",
+                    "Grade": 0,
+                    "Lastname": "Garrett",
+                    "Matriculation": "418112",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Pearl",
+                    "Grade": 0,
+                    "Lastname": "Cunningham",
+                    "Matriculation": "421933",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Francis",
+                    "Grade": 0,
+                    "Lastname": "King",
+                    "Matriculation": "430188",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "David",
+                    "Grade": 0,
+                    "Lastname": "Thomas",
+                    "Matriculation": "432295",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Isobel",
+                    "Grade": 0,
+                    "Lastname": "Graham",
+                    "Matriculation": "434926",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Pearl",
+                    "Grade": 0,
+                    "Lastname": "Hall",
+                    "Matriculation": "435873",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                }
+            ],
+            "ExtraSupervisors": null,
+            "Internal_ID": "2131|101",
+            "Name": "BS I",
+            "NumSeats": 38,
+            "SupervisorInCharge": null
+        },
+        {
+            "AssignedParticipants": [
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Marcia",
+                    "Grade": 0,
+                    "Lastname": "Tucker",
+                    "Matriculation": "436628",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Earl",
+                    "Grade": 0,
+                    "Lastname": "Jenkins",
+                    "Matriculation": "437268",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Ronnie",
+                    "Grade": 0,
+                    "Lastname": "Henderson",
+                    "Matriculation": "445284",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Rita",
+                    "Grade": 0,
+                    "Lastname": "Obrien",
+                    "Matriculation": "449649",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Timmothy",
+                    "Grade": 0,
+                    "Lastname": "Ray",
+                    "Matriculation": "456211",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Ashley",
+                    "Grade": 0,
+                    "Lastname": "Spencer",
+                    "Matriculation": "460850",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Veronica",
+                    "Grade": 0,
+                    "Lastname": "Oliver",
+                    "Matriculation": "468411",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Tiffany",
+                    "Grade": 0,
+                    "Lastname": "Medina",
+                    "Matriculation": "473069",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Bernice",
+                    "Grade": 0,
+                    "Lastname": "Fernandez",
+                    "Matriculation": "474927",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Corey",
+                    "Grade": 0,
+                    "Lastname": "Richards",
+                    "Matriculation": "478678",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Eugene",
+                    "Grade": 0,
+                    "Lastname": "Perkins",
+                    "Matriculation": "480201",
+                    "NumberOfTrials": "2",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Wayne",
+                    "Grade": 0,
+                    "Lastname": "Banks",
+                    "Matriculation": "481895",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Sophie",
+                    "Grade": 0,
+                    "Lastname": "Smith",
+                    "Matriculation": "485250",
+                    "NumberOfTrials": "1",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Noelle",
+                    "Grade": 0,
+                    "Lastname": "Berry",
+                    "Matriculation": "493968",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Anne",
+                    "Grade": 0,
+                    "Lastname": "Brewer",
+                    "Matriculation": "495833",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                },
+                {
+                    "Annotation": "",
+                    "Bonus": 0,
+                    "Firstname": "Tara",
+                    "Grade": 0,
+                    "Lastname": "Butler",
+                    "Matriculation": "495857",
+                    "NumberOfTrials": "3",
+                    "Points": []
+                }
+            ],
+            "ExtraSupervisors": null,
+            "Internal_ID": "2131|102",
+            "Name": "BS II",
+            "NumSeats": 38,
+            "SupervisorInCharge": null
+        }
+    ]
+}

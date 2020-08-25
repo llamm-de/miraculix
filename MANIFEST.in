@@ -1,0 +1,2 @@
+recursive-include templates/rooms *
+recursive-include templates/protocols *.docx
